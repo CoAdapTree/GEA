@@ -2,4 +2,5 @@
 #### GEA analysis uncorrected for population structure conducted using spearman's rho ###
 
 
-
+This script takes SNP frequencies across populations and environmental (or phenotype) data
+and calculates spearman's rho.
